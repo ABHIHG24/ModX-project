@@ -1,0 +1,10 @@
+- [x] Update App.jsx to implement routing with BrowserRouter, Routes, and Route for /login and /signup
+- [x] Update navbar.jsx to use Link for navigation links and add localStorage persistence for theme
+- [x] Update signup.jsx to add dark mode classes
+- [x] Update login.jsx to use Link for signup link
+- [x] Create ExplorePage component with tab switcher for Posts and Teams
+- [x] Implement Posts section with responsive grid of cards, hover animations
+- [x] Implement Teams section with grid of team cards, Read More and Apply buttons
+- [x] Add /explore route to App.jsx
+- [ ] Test the routing and dark mode functionality
+- [ ] Test ExplorePage responsiveness and animations

@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+chromadb
+psycopg2-binary
+beautifulsoup4
+requests
+grpcio
+grpcio-tools
+huggingface-hub
